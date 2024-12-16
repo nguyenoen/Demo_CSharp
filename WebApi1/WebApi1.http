@@ -1,0 +1,12 @@
+@WebApi1_HostAddress = http://localhost:5164
+
+GET {{WebApi1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+GET {{WebApi1_HostAddress}}/pizza/2
+Accept: application/json
+
+###
+GET {{WebApi1_HostAddress}}/pizza/
+Accept: application/json
