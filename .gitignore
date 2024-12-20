@@ -13,6 +13,19 @@
 x64/
 [Bb]in/
 [Oo]bj/
+/BlazorApp1/obj/
+/BlazorApp1/bin/
+FCData/obj
+FCData/bin
+FCData.ClientExample/obj
+FCData.ClientExample/bin
+FCTrading/obj
+FCTrading
+FCTrading.ClientExample/obj
+FCTrading.ClientExample/bin
+WebApi/obj
+WebApi/bin
+
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
