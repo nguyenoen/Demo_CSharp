@@ -45,7 +45,9 @@ dotnet new webapi -controllers
 #### Add Swagger UI
 dotnet add package Swashbuckle.AspNetCore
 
-
+dotnet add package Microsoft.IdentityModel.JsonWebTokens
+dotnet add package Newtonsoft.Json
+dotnet add package System.IdentityModel.Tokens.Jwt
 
 
 #### Check HTTPS
