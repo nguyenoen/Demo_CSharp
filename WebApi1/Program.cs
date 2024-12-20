@@ -20,8 +20,6 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-// add features like CORS, Entity Framework, or Swagger
-builder.Services.AddCors(option => {})
 // Minimal API
 app.MapGet("/", () => "Hello World!");
 app.UseCors("some unique string");

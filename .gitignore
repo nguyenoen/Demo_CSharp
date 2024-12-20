@@ -1,5 +1,4 @@
 /.vscode
-/BlazorApp1/obj/
-/BlazorApp1/bin/
-/WebApi1/obj/
-/WebApi1/bin/
+*/obj/
+*/bin/
+*git*
